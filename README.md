@@ -1,1 +1,1 @@
-A stack blur wrapper for NSImageView.  
+A stack blur category for NSImage.
